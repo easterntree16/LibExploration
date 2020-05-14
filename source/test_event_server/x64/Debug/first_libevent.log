@@ -1,0 +1,16 @@
+﻿  test_event_server.cpp
+test_event_server.obj : error LNK2019: 无法解析的外部符号 evutil_make_socket_nonblocking，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 evutil_make_listen_socket_reuseable，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 evutil_closesocket，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 evutil_inet_ntop，该符号在函数 "void __cdecl ListenCB(__int64,short,void *)" (?ListenCB@@YAX_JFPEAX@Z) 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_base_new，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_base_dispatch，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_base_free，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_self_cbarg，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_new，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_free，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_add，该符号在函数 main 中被引用
+test_event_server.obj : error LNK2019: 无法解析的外部符号 event_del，该符号在函数 main 中被引用
+F:\libevent\out\vs2017_32\libevent\lib\libevent.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\libevent\out\vs2017_32\libevent\lib\libevent_core.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\xms\code\xdisk\src\test_event_server\x64\Debug\test_event_server.exe : fatal error LNK1120: 12 个无法解析的外部命令

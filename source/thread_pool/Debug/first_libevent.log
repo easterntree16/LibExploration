@@ -1,0 +1,7 @@
+﻿  thread_pool.cpp
+  XFtpServerCMD.cpp
+  XThread.cpp
+  XThreadPool.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  first_libevent.vcxproj -> D:\gitworks\LibExploration\source\thread_pool\Debug\thread_pool.exe

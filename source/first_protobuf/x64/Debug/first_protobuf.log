@@ -1,0 +1,6 @@
+﻿  first_protobuf.cpp
+d:\gitworks\libexploration\source\first_protobuf\first_protobuf.cpp(44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  xmsg_head2.pb.cc
+d:\gitworks\libexploration\source\first_protobuf\xmsg_head2.pb.cc(160): warning C4244: “=”: 从“google::protobuf::uint64”转换到“google::protobuf::int32”，可能丢失数据
+  正在生成代码...
+libprotobufd.lib(generated_message_util.obj) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突

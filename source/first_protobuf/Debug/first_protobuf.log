@@ -1,0 +1,7 @@
+﻿  first_protobuf.cpp
+  reflect_protobuf.cpp
+  xmsg_head.pb.cc
+d:\gitworks\libexploration\source\first_protobuf\xmsg_head.pb.cc(167): warning C4244: “=”: 从“google::protobuf::uint64”转换到“google::protobuf::int32”，可能丢失数据
+d:\gitworks\libexploration\source\first_protobuf\xmsg_head.pb.cc(183): warning C4244: “=”: 从“google::protobuf::uint64”转换到“google::protobuf::int32”，可能丢失数据
+  正在生成代码...
+  first_protobuf.vcxproj -> D:\gitworks\LibExploration\source\first_protobuf\Debug\first_protobuf.exe

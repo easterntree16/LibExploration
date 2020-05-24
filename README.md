@@ -21,3 +21,8 @@ Developments with some C/C++ libs to explore the possible technologies to build 
 
 * Protobuf message value set/get,serialization/deserialization. 
 * Protobuf Message reflection, descriptor,dynamic compilation.
+
+## XEvent_com
+
+* use the libevent to implement programming interface for the event-driven server/client communication.
+* Apply thread-pool to handle the incoming event task from socket.
